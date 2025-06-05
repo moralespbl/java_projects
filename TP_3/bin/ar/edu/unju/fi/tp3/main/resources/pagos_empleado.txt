@@ -1,0 +1,2 @@
+Antiguedad: 7000
+Hijos: 8000
